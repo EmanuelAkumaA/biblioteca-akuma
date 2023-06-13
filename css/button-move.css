@@ -1,0 +1,18 @@
+#coverButton {
+    position: relative;
+    max-width: 200px;
+    
+}
+
+#hover_me{
+    position: absolute;
+    left: 0%;
+    transition: .1s ease-in-out; 
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+
+}
